@@ -4,3 +4,11 @@ This is the first file in this project other than the README file. This file wil
 you can either create or import into Github. 
 
 We will now create a branch to see what types of files I can import into Github. Let's go!
+
+I tried out what all files you can imoprt into a Github project or as they call it upload to a project. For experimentation I added two files from my CockroachDB
+setup; one file was .png and the other .ttf.
+
+Now, let's commit these changes to the new branch and then open the pull request for reviewing the changes. Lastly, we will merge these changes in the main branch,
+Hi-world. Let's go!
+
+
